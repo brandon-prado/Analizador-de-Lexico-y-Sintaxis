@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x64": {
+      "Analizador de Léxico/1.0.0": {
+        "runtime": {
+          "Analizador de Léxico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analizador de Léxico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
