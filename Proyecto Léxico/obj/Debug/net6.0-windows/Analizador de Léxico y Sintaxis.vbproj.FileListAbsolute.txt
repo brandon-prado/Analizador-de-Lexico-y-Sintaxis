@@ -1,0 +1,19 @@
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.vbproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico_Sintaxis.FrmAcercaDe.resources
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico_Sintaxis.Resources.resources
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.vbproj.GenerateResource.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.AssemblyInfo.vb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.vbproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.exe
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.deps.json
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.runtimeconfig.json
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.pdb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\refint\Analizador de Léxico y Sintaxis.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.pdb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico y Sintaxis.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\ref\Analizador de Léxico y Sintaxis.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico_Sintaxis.FrmPrincipal.resources

@@ -1,0 +1,19 @@
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico.exe
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico.deps.json
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico.runtimeconfig.json
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\bin\Debug\net6.0-windows\Analizador de Léxico.pdb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.vbproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico.FrmAcercaDe.resources
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico.FrmInicio.resources
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Proyecto_Léxico.Resources.resources
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.vbproj.GenerateResource.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.AssemblyInfo.vb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.vbproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\refint\Analizador de Léxico.dll
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.pdb
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\Analizador de Léxico.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Proyecto\Proyecto Léxico\Proyecto Léxico\obj\Debug\net6.0-windows\ref\Analizador de Léxico.dll

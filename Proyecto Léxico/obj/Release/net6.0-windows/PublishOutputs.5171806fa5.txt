@@ -1,0 +1,5 @@
+C:\Users\Brandon\Desktop\Analizador de Léxico.exe
+C:\Users\Brandon\Desktop\Analizador de Léxico.dll
+C:\Users\Brandon\Desktop\Analizador de Léxico.deps.json
+C:\Users\Brandon\Desktop\Analizador de Léxico.runtimeconfig.json
+C:\Users\Brandon\Desktop\Analizador de Léxico.pdb
